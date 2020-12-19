@@ -18,3 +18,7 @@ Your lyrics must start with the word 'apna' and use numpy random seed of 11 (for
 You result will be evaluated word by word with the expected output given by Markov Chain.
 
 You can assume prediction of current character depends only on last 4 characters (Use K=4 in Markov Chain Model)
+
+**Output file:**
+
+The output generated for the challenge using the Markov Chain model is stored in **"Output.txt"** file.
